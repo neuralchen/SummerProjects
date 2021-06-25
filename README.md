@@ -13,6 +13,11 @@
 ### 项目成果
 论文(AAAI2022)以及完善的github项目
 
+### 项目参考
+- 团队已有积累 https://github.com/neuralchen/ASMAGAN
+- 风格迁移 https://github.com/neuralchen/StyleTransferPapers
+- 深度生成及图形学方向入门手册 https://notes.sjtu.edu.cn/vKdw3gPxTfSLRv3M15R-ww#
 
-
- 
+### 办公地点
+陈炫宏(常驻华为海思)
+邮件：chenxuanhongzju@outlook.com
