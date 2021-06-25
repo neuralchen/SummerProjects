@@ -18,6 +18,14 @@
 - 风格迁移 https://github.com/neuralchen/StyleTransferPapers
 - 深度生成及图形学方向入门手册 https://notes.sjtu.edu.cn/vKdw3gPxTfSLRv3M15R-ww#
 
+
+### TODO List
+- 了解基础的风格迁移论文参考 https://github.com/neuralchen/StyleTransferPapers
+- 解决伪影问题
+- 解决感受野问题
+- 分块前向或逐层前向解决内存问题
+
 ### 办公地点
 陈炫宏(常驻华为海思)
 邮件：chenxuanhongzju@outlook.com
+
